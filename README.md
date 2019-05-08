@@ -9,8 +9,8 @@ Based on *https://drivendata.github.io/cookiecutter-data-science/*
 ├── LICENSE
 │
 ├── data
-│	├── external       <- Data from third party sources.
-│   ├── raw			   <- The original, immutable data dump.
+│	  ├── external       <- Data from third party sources.
+│   ├── raw			       <- The original, immutable data dump.
 │   ├── intermediate   <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── temp           <- Temporary Data storage.
