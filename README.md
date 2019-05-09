@@ -16,8 +16,8 @@ Based on *https://drivendata.github.io/cookiecutter-data-science/*
 │   └── temp           <- Temporary Data storage.
 │
 ├── results
-│   ├── outputs        <- Generated Outputs.
-│   └── models         <- Trained and serialized models, model predictions, or model summaries.
+│   ├── outputs        <- model generated outputs or model predictions.
+│   └── models         <- Trained and serialized models, or model summaries.
 │
 ├── documents
 │   ├── docs           <- A default Sphinx project; see sphinx-doc.org for details.
